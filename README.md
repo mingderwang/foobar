@@ -1,6 +1,7 @@
 # foobar
 rails run with mysql and deploy by docker-compose
 
+```
 ➜  foobar docker-compose up
 Recreating foobar_db_1
 Recreating foobar_web_1
@@ -24,3 +25,4 @@ db_1   |
 ^CGracefully stopping... (press Ctrl+C again to force)
 Stopping foobar_web_1 ... done
 Stopping foobar_db_1 ... done
+```
